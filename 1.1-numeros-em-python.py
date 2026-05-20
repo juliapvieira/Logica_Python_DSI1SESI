@@ -95,3 +95,18 @@ valor3 = float(10)
 print("float(10):", valor3)
 print ("Tipo:", type (valor3))
                     
+
+
+
+
+                    # EX4
+# Tente converter a string "cento e vinte"
+# para inteiro e observe o que acontece.
+# string = cento_e_vinte
+# numero = str (numero)
+# inteiro= int (numero)
+# print ("conversão para inteiro:",numero)
+# Traceback (most recent call last):
+# #File "c:\Users\Aluno\Logica_Python_DSI1SESI\aula.py\exerciciosaula.py", line 44, in <module>
+# tring = cento_e_vinte 
+print ("================================================")
