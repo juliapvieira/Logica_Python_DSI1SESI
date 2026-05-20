@@ -8,15 +8,16 @@
 #idade guarda um número inteiro;
 #altura guarda um número decimal;
 #aprovado guarda um valor booleano (True ou False).
-print("====================================================")
+print ("================================================")
 
 # EX1
 # Um aluno tem 10 anos. Armazene essa idade em uma variável
 # e exiba seu tipo.
 
+
 idade = 10
 print (type(idade))
-print("====================================================")
+print ("================================================")
 
 # EX2
 # A temperatura medida é 23.5°C.
@@ -26,25 +27,23 @@ numero_decimal = 23.5
 temperatura = 23.5
 print ("Valor:", (numero_decimal))
 print ("Tipo:", type (numero_decimal))
-
-print("====================================================")
+print ("================================================")
 
 # EX3
 # Crie um número complexo representando uma impedância elétrica
 # de 5 + 8j e mostre sua parte real.
 
-
 numero_complexo = 5 + 8j
 print ("Valor:" , numero_complexo)
 print ("Tipo:" ,type (numero_complexo))
-#print ("------------------------------------")
+print ("------------------------------------")
 
 # EX4
 # Mostre a parte imaginária do número complexo
 # criado no exercício anterior.
 idade = numero_complexo
 print ("parte imaginária:", numero_complexo)
-print("====================================================")
+print ("================================================")
 
 # EX5
 # Declare uma variável chamada "populacao"
@@ -54,7 +53,7 @@ print("====================================================")
 população = 8000000000
 idade = 8000000000
 print ("Tipo:", type (idade))
-print("====================================================")
+print ("================================================")
 
 # EX6
 # Verifique se o número 7 é do tipo int
@@ -62,7 +61,7 @@ print("====================================================")
 
 valor1 = int= "7"
 print ("Tipo:", type (valor1))
-print("====================================================")
+print ("================================================")
 
 # EX7
 # Crie uma variável chamada "aprovado"
@@ -70,20 +69,19 @@ print("====================================================")
  
 aprovado = True
 print(type(aprovado))
-print("====================================================")
+print ("================================================")
 
 # EX8
 # Some True e False e mostre o resultado
 # e também o tipo do resultado.
 
-#true + false = aprovado
-print (aprovado)
-print ("Tipo:", type (aprovado))
+
+print ("================================================")
 #ou
 resultado = True + False
 print(resultado)
 print(type(resultado))
-print("====================================================")
+print ("================================================")
 
 # EX9
 # Pesquise e mostre qual é o valor máximo
@@ -92,8 +90,7 @@ print("====================================================")
 int = numero_complexo
 print(numero_complexo)
 print("Tipo:", type(numero_complexo))
-
-print("====================================================")
+print ("================================================")
 
 # EX10
 # Mostre a representação em binário
