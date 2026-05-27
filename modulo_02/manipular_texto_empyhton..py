@@ -45,3 +45,20 @@ print (menu)
 
 texto = ("Copa" " 2026," " Neymar é show mesmo?")
 print (texto)
+
+# --------------------------------
+# 4) STRINGS COMO SEQUENCIA
+# --------------------------------
+
+st = "maracana"
+print ("Primeira letra:", st [0])
+# Só exibir a letra: m
+
+print ("Ultima letra:", st [-1])
+
+print ("Trecho 1:4", st [1:4])
+
+print ("Do início ate 3:", st [:3])
+
+print ("Tamanho", len (st))
+
